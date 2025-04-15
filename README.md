@@ -45,7 +45,18 @@ Below is an example of the generated HTML layout:
 <img src="https://raw.githubusercontent.com/ChenyalaInc/django-project-analyzer/refs/heads/main/Screenshot%202025-04-15%20123531.png" alt="Django project structure preview" width="800"/>
 
 ## 📄 Output Example (console)
-📁 blog/ 📄 models.py 🧩 Model: Post └── title: CharField └── content: TextField 📄 urls.py 🔗 Route: / → views.index (home) 📄 views.py ⚙️ def index() ⚙️ def detail()
+
+### `models.py`
+- **Model**: `Post`
+  - `title`: `CharField` – Field for the title of the post.
+  - `content`: `TextField` – Field for the content of the post.
+
+### `urls.py`
+- **Route**: `/ → views.index` – Maps the home route to the `index` view.
+
+### `views.py`
+- **Function `index()`**: Handles the rendering of the home page.
+- **Function `detail()`**: Handles the rendering of individual post details.
 -----------------------------------------------------------------------------------
 
 🤝 Contributions
