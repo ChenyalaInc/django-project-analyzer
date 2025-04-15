@@ -42,7 +42,7 @@ python print_structure_console.py
 🖼️ Screenshot
 Below is an example of the generated HTML layout:
 
-<img src="A_screenshot_displays_a_dark-themed_HTML_output_pa.png](https://raw.githubusercontent.com/ChenyalaInc/django-project-analyzer/refs/heads/main/Screenshot%202025-04-15%20123531.png" alt="Django project structure preview" width="800"/>
+<img src="https://raw.githubusercontent.com/ChenyalaInc/django-project-analyzer/refs/heads/main/Screenshot%202025-04-15%20123531.png" alt="Django project structure preview" width="800"/>
 
 📄 Output Example (console)
 📁 blog/
