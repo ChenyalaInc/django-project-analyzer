@@ -39,22 +39,13 @@ python generate_html_structure.py
 # or
 python print_structure_console.py
 
-🖼️ Screenshot
+## 🖼️ Screenshot
 Below is an example of the generated HTML layout:
 
 <img src="https://raw.githubusercontent.com/ChenyalaInc/django-project-analyzer/refs/heads/main/Screenshot%202025-04-15%20123531.png" alt="Django project structure preview" width="800"/>
 
-📄 Output Example (console)
-📁 blog/
-    📄 models.py
-        🧩 Model: Post
-            └── title: CharField
-            └── content: TextField
-    📄 urls.py
-        🔗 Route: / → views.index (home)
-    📄 views.py
-        ⚙️ def index()
-        ⚙️ def detail()
+## 📄 Output Example (console)
+📁 blog/ 📄 models.py 🧩 Model: Post └── title: CharField └── content: TextField 📄 urls.py 🔗 Route: / → views.index (home) 📄 views.py ⚙️ def index() ⚙️ def detail()
 -----------------------------------------------------------------------------------
 
 🤝 Contributions
